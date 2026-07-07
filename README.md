@@ -1,4 +1,4 @@
-# Naitik-sharma24-# 💫 About Me:
+💫 About Me:
 I'm an Executive-AI professional currently transitioning into a full-time <br>AI Engineer role, backed by a structured 16-week self-driven roadmap <br>covering Python, LLMs, RAG, agent frameworks, and cloud deployment (AWS).<br><br>🌱 **Currently learning:** AWS (targeting AI Practitioner certification), <br>Docker, and advanced agentic AI patterns.<br><br>💻 **Tech Stack:** Python · SQL · React · FastAPI · AWS · Docker · <br>Sarvam AI · Twilio · LLMs/RAG<br><br>🎯 **Goal:** Landing an AI Engineer role by combining hands-on project <br>building with strong fundamentals.
 
 
